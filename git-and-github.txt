@@ -1,3 +1,6 @@
 git does not rely on github at all.
 most features of what I believed were github actually are features of git.
 git may be ideal for my video game tracking if I do not want to keep using github I can find another repository host and pull with git.
+github is heavily reliant on git, not the other way around.
+github issues are uniquie to github and do not have a 'git' equivalent.
+github is owned by microsoft.
