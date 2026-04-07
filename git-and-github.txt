@@ -1,0 +1,3 @@
+git does not rely on github at all.
+most features of what I believed were github actually are features of git.
+git may be ideal for my video game tracking if I do not want to keep using github I can find another repository host and pull with git.
